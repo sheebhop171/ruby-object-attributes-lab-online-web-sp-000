@@ -16,4 +16,3 @@ class Person
    @job
  end
 end
-end
